@@ -1,6 +1,6 @@
-# Front-end de un Hotel hecho con Gatsby
+# Hotel Gatsby hecho con Gatsby
 
-_Front-end de un Hotel hecho React, Gatsby, GraphiQL, DatoCSM, Material UI_
+_Front-end de un hotel hecho React, Gatsby, GraphiQL, DatoCSM, Material UI_
 
 ## Comenzando 🚀
 
