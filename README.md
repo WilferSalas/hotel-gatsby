@@ -2,6 +2,8 @@
 
 _Hotel hecho con React, Gatsby, GraphiQL, DatoCSM, Material UI_
 
+Link del proyecto desplegado con netlify: https://competent-montalcini-908f84.netlify.app/
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
