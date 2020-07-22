@@ -1,30 +1,54 @@
-# Gatsby example
+# Hotel Gatsby hecho con Gatsby
 
-## How to use
+_Hotel hecho con React, Gatsby, GraphiQL, DatoCSM, Material UI_
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+## Comenzando 🚀
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/gatsby
-cd gatsby
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+Node JS: https://nodejs.org/
 ```
 
-Install it and run:
+### Instalación 🔧
 
-```sh
-npm install
-npm run develop
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+```
+$ git clone https://github.com/WilferSalas/Hotel-Gatsby.git
 ```
 
-or:
+```
+$ npm install
+```
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/gatsby)
+```
+$ npm run dev
+```
 
-## The idea behind the example
+## Construido con 🛠️
 
-[Gatsby](https://github.com/gatsbyjs/gatsby) is a static site generator for React.
+* [React](https://reactjs.org/)
+* [Gatsby](https://www.gatsbyjs.org/)
+* [DatoCSM](https://www.datocms.com/)
+* [Material UI](https://material-ui.com/)
 
-## gatsby-theme-material-ui
+## Autores ✒️
 
-Looking for an example with less boilerplate but also less freedom?
-Check [`/examples/gatsby-theme`](https://github.com/mui-org/material-ui/tree/master/examples/gatsby-theme) out.
+* **Wilfer Salas** - [WilferSalas](https://github.com/WilferSalas)
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [WilferSalas](https://github.com/WilferSalas) 😊
