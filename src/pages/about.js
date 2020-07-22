@@ -36,7 +36,6 @@ const useStyles = makeStyles((theme) => ({
     },
     paper: {
         display: 'flex',
-        padding: 20,
         [theme.breakpoints.down('sm')]: {
             display: 'block'
         }
