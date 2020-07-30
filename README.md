@@ -1,6 +1,6 @@
 # Hotel Gatsby hecho con Gatsby
 
-_Hotel hecho con React, Gatsby, GraphiQL, DatoCSM, Material UI_
+_Hotel hecho con React, Gatsby, GraphQL, DatoCSM, Material UI_
 
 Link del proyecto desplegado con netlify: https://competent-montalcini-908f84.netlify.app/
 
